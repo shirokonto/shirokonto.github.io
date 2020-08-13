@@ -70,12 +70,12 @@ window.__WEBSITE_PROPS__ = {
                 "data": {
                     "label": "Contact me",
                     "targetUrl": null,
-                    "isBookingLink": true,
+                    "isBookingLink": false,
                     "targetPageUuid": null
                 },
                 "type": 2,
                 "uuid": "45c9f3b4-7c1e-4f47-b2f2-cfde19b0581e",
-                "visible": true,
+                "visible": false,
                 "settings": {
                     "alignment": "right"
                 },
@@ -229,7 +229,7 @@ window.__WEBSITE_PROPS__ = {
         "0329a47f-91c1-4c48-81ec-75326cd5cdfa": "cookie-einstellungen/"
     },
     "fileLinkMap": {},
-    "hideJimdoAd": false,
+    "hideJimdoAd": true,
     "isTrackingEnabled": false,
     "domain": "shirotestpage.jimdosite.com",
     "colorPalette": {
@@ -352,7 +352,7 @@ window.__WEBSITE_PROPS__ = {
                     },
                     "type": 1,
                     "uuid": "f18e4fde-ae2f-43b5-ad2c-ed0c8e69ced7",
-                    "visible": true,
+                    "visible": false,
                     "settings": {
                         "colorType": null,
                         "activeMedia": "image"
@@ -380,7 +380,7 @@ window.__WEBSITE_PROPS__ = {
                 "primaryCTA": {
                     "data": {
                         "label": "Mehr lesen",
-                        "targetUrl": null,
+                        "targetUrl": "https://github.com/shirokonto",
                         "targetFileUuid": null,
                         "targetPageUuid": "b9a7b939-7dbc-499c-8f3b-3e6d4d0a3948"
                     },
@@ -431,7 +431,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<h3>Java<\/h3><p>Wir alle haben unsere St\u00e4rken. Ich habe meine perfektioniert, damit du dich auf deine konzentrieren kannst. Kontaktiere mich und wir finden zusammen heraus, wie ich dir am besten helfen kann.<\/p>"
+                                    "text": "<h3>Java<\/h3><p>Java subtext<\/p>"
                                 },
                                 "type": 0,
                                 "uuid": "476adb5f-4bbd-4de3-b22e-62db81edd2c2",
@@ -506,7 +506,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<h3>JavaScript HTML CSS WebGl GLSL<\/h3><p>Jeder f\u00e4ngt mal klein an - so wie wir. Aus einer gemeinsamen Vision haben wir zusammen Schritt f\u00fcr Schritt etwas Gro\u00dfes gemacht. Darauf sind wir stolz.<\/p>"
+                                    "text": "<h3>JavaScript HTML CSS WebGl GLSL<\/h3><p>javascript subtext<\/p>"
                                 },
                                 "type": 0,
                                 "uuid": "464d7847-4244-4789-b2cd-d434364c8c91",
@@ -581,7 +581,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<h3>SQL Anywhere<\/h3><p>Warum man auf uns z\u00e4hlen kann? Weil unser Unternehmen mehr ist, als nur ein Business. Jede Person in unserem Team ist einzigartig \u2013 und wir alle teilen die gleichen Werte.<\/p>"
+                                    "text": "<h3>SQL Anywhere<\/h3><p>sql subtext<\/p>"
                                 },
                                 "type": 0,
                                 "uuid": "1b06af6a-e903-4cc3-b43a-07c77130ac67",
@@ -656,11 +656,11 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<h3>Unsere Kunden<\/h3>\n<p>Wir sind erfahren, verl\u00e4sslich sowie fokussiert auf gute Ergebnisse und wissen es zu sch\u00e4tzen, mit gro\u00dfartigen Kunden zusammenzuarbeiten.<\/p>\n"
+                                    "text": "<h3>4. Language<\/h3>\n<p>subtext forth<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "ac2d59f8-3624-4f55-894c-031a923dd087",
-                                "visible": true,
+                                "visible": false,
                                 "contentType": 3
                             },
                             "image": {
@@ -672,8 +672,8 @@ window.__WEBSITE_PROPS__ = {
                                         "metadata": {
                                             "likes": 40,
                                             "filter": null,
-                                            "attributions": ["<a href=\"http://unsplash.com/photos/LBKJIj9qLlg?utm_source=jimdo_dolphin&utm_medium=referral\" target=\"_blank\" rel=\"noreferrer noopener\">Kate<\/a> on <a href=\"https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral\" target=\"_blank\" rel=\"noreferrer noopener\">Unsplash<\/a>"]
-                                        },
+                                            "attributions": ["<a href=\"https://www.instagram.com/p/BXVvCFCANV1\" target=\"_blank\" rel=\"noreferrer noopener\">Kate<\/a> on <a href=\"https://www.instagram.com/p/BXVvCFCANV1\" target=\"_blank\" rel=\"noreferrer noopener\">Unsplash<\/a>"]
+                                        }, 
                                         "provider": "unsplash",
                                         "providerId": "LBKJIj9qLlg"
                                     },
@@ -684,7 +684,7 @@ window.__WEBSITE_PROPS__ = {
                                 },
                                 "type": 1,
                                 "uuid": "39c18666-e08a-46aa-85c2-6ecdfaf75701",
-                                "visible": true,
+                                "visible": false,
                                 "settings": {
                                     "colorType": "MainColor",
                                     "activeMedia": "image"
@@ -700,7 +700,7 @@ window.__WEBSITE_PROPS__ = {
                                 },
                                 "type": 2,
                                 "uuid": "b9335b62-e96e-4b84-a4cc-47a9bd79aeec",
-                                "visible": true,
+                                "visible": false,
                                 "settings": {
                                     "alignment": "left"
                                 },
@@ -724,7 +724,7 @@ window.__WEBSITE_PROPS__ = {
                         },
                         "contentType": 2
                     }],
-                    "visible": true,
+                    "visible": false,
                     "contentType": 1
                 }
             },
@@ -743,7 +743,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p class=\"text-align-center\">Wir alle haben unsere St\u00e4rken. Ich habe meine perfektioniert, damit du dich auf deine konzentrieren kannst. Kontaktiere mich und wir finden zusammen heraus, wie ich dir am besten helfen kann.<\/p>\n"
+                                    "text": "<p class=\"text-align-center\">beer img subtext<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "93d29e5b-579a-43ef-84b3-81a632d4e505",
@@ -811,7 +811,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p class=\"text-align-center\">Hier k\u00f6nntest du dich kurz vorstellen und erkl\u00e4ren, was du tust. Was macht dich besonders, und wie kannst du deinen Kunden helfen? Das muss gar nicht lang sein. Eigentlich ist es sogar eine gute Idee, den Text m\u00f6glichst kurz zu halten, weil die meisten Leute nicht viel auf Bildschirmen lesen m\u00f6chten.<\/p>\n"
+                                    "text": "<p class=\"text-align-center\">guitar img subtext<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "f6ed6a25-3b54-4b80-8f17-fe400095d72c",
@@ -879,7 +879,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p class=\"text-align-center\">Unsere Arbeit ist unsere Leidenschaft und ein positiver Antrieb f\u00fcr jeden neuen Tag. Sie bringt uns dazu, Herausforderung als Chance zu verstehen und neue Ziele zu erreichen. <\/p>\n"
+                                    "text": "<p class=\"text-align-center\">guitar_2 img subtext <\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "b6a77440-73ff-4c0c-8bb1-654f0b8127e9",
@@ -990,7 +990,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p>Jeder f\u00e4ngt mal klein an - so wie wir. Aus einer gemeinsamen Vision haben wir zusammen Schritt f\u00fcr Schritt etwas Gro\u00dfes gemacht. Darauf sind wir stolz.<\/p>\n"
+                                    "text": "<p>illustration1 subtext<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "2a3964a9-3a75-4745-86fb-33e0f1685e2d",
@@ -1024,7 +1024,7 @@ window.__WEBSITE_PROPS__ = {
                             "primaryCTA": {
                                 "data": {
                                     "label": "Instagram",
-                                    "targetUrl": www.instagram.com/shiroskrattberg,
+                                    "targetUrl": "instagram.com/shiroskrattberg",
                                     "isBookingLink": false,
                                     "targetPageUuid": null
                                 },
@@ -1058,7 +1058,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p>Wir alle haben eine Leidenschaft f\u00fcr etwas. Das hier ist meine! Ich habe schon fr\u00fch damit angefangen und bin im Laufe der Jahre immer besser geworden. Und ich lerne jeden Tag etwas Neues dazu.<\/p>\n"
+                                    "text": "<p>illustration2 subtext<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "c8c54558-359b-4c85-8d5f-28751de8b949",
@@ -1126,7 +1126,7 @@ window.__WEBSITE_PROPS__ = {
                         "content": {
                             "text": {
                                 "data": {
-                                    "text": "<p>Hier k\u00f6nntest du dich kurz vorstellen und erkl\u00e4ren, was du tust. Was macht dich besonders, und wie kannst du deinen Kunden helfen? Das muss gar nicht lang sein. Eigentlich ist es sogar eine gute Idee, den Text m\u00f6glichst kurz zu halten, weil die meisten Leute nicht viel auf Bildschirmen lesen m\u00f6chten.<\/p>\n"
+                                    "text": "<p>illustration3 subtext<\/p>\n"
                                 },
                                 "type": 0,
                                 "uuid": "21bbf941-caa9-4c51-b350-f675cbae70ed",
